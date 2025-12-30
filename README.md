@@ -133,3 +133,9 @@ python hand_game_control.py
 
 ---
 
+## Working of the project built
+
+
+https://github.com/user-attachments/assets/d3355c55-bc53-4f12-b3cd-5dcabd6768a2
+
+
